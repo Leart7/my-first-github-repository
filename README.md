@@ -1,1 +1,1 @@
-ReadmeFile was edited manually locally
+This line was modified manually during conflict resolution
